@@ -92,6 +92,3 @@ while True:
 # Close all opencv windows
 video_stream.release()
 cv2.destroyAllWindows()
-
-
-  
